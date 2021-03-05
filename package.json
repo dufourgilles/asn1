@@ -6,7 +6,7 @@
     "Alex Wilson <alex.wilson@joyent.com>",
     "Gilles Dufour <dufour.gilles@gmail.com"
   ],
-  "name": "@gdnet/asn1",
+  "name": "gdnet-asn1",
   "description": "Contains parsers and serializers for ASN.1 (currently BER only)",
   "version": "1.0.0",
   "main": "lib/index.js",
